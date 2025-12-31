@@ -1,0 +1,1 @@
+### PoC de utilização Gemini
